@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 * :mortar_board: Pursuing my Bachelors in Electrical Engineering from IIEST Shibpur
 * :briefcase: Always looking to collaborate on amazing projects!
-* :technologist: An aspiring Full Stack Developer and Machine Learning Enthusiast.
+* :technologist: An aspiring Full Stack Developer and a Cyber-Security Enthusiast.
   
   
 ## GitHub Analytics
