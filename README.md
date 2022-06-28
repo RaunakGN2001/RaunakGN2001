@@ -1,22 +1,35 @@
 # Hey! It's Raunak this side 👋  
 ![](https://komarev.com/ghpvc/?username=RaunakGN2001)
+<br>
+<pre>
+<img alt="GIF" align="right" width="540px" src="https://github.com/RaunakGN2001/RaunakGN2001/blob/5539baf30c4a653ab4a3b5573fab982573971125/me-ascii-art.png" />
+ ~> <strong>cat info.txt</strong>
+ 
+<strong><a href="" >OS</a></strong>: macOS 12.4 21F79 arm64
+<strong><a href="" >Uptime</a></strong>: 21 years
+<strong><a href="" >Host</a></strong>: IIEST, Shibpur
+<strong><a href="" >Kernel</a></strong>: Electrical Engineering
+<strong><a href="" >IDE</a></strong>: VSCode 1.68.1
 
-<!--
-**RaunakGN2001/RaunakGN2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<strong><a href="" >Languages.Programming</a></strong>: 
+  - C
+  - C++
+  - JavaScript
+  - Python
+<strong><a href="" >Languages.Computer</a></strong>: 
+  - HTML
+  - CSS
+  - JSON
+  - XML
+  - LaTeX
+<strong><a href="" >Languages.Real</a></strong>: 
+  - Bengali
+  - English
+  - Hindi
+  
+<strong><a href="">Login</a></strong>: raunakgn                         <strong><a href="">Name</a></strong>: Raunak
+<strong><a href="">Terminal</a></strong>: Kitty                         <strong><a href="">Shell</a></strong>: Zsh
+</pre>
 
 ## About Me
 <img align = "right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
