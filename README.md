@@ -27,8 +27,9 @@
   - English
   - Hindi
   
-<strong><a href="">Login</a></strong>: raunakgn                         <strong><a href="">Name</a></strong>: Raunak
-<strong><a href="">Terminal</a></strong>: Kitty                         <strong><a href="">Shell</a></strong>: Zsh
+<strong><a href="">Login</a></strong>: raunakgn
+<strong><a href="">Terminal</a></strong>: Kitty
+<strong><a href="">Shell</a></strong>: Zsh
 </pre>
 
 ## About Me
