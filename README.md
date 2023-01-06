@@ -33,9 +33,9 @@
 </pre>
 
 ## About Me
-<img align = "right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align = "right" height="290px" width="300px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
-* 👨🏻‍💻 Learning Web3
+* 👨🏻‍💻 Learning Backend Dev
 * :mortar_board: Pursuing my Bachelors in Electrical Engineering from IIEST Shibpur
 * 😏 with Tailwind, JavaScript, React and 69 others
 * :briefcase: Always looking to collaborate on amazing projects!
