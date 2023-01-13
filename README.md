@@ -44,8 +44,35 @@
   <br><br><br><br>
   
 ## GitHub Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaunakGN2001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakGN2001&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Raunak's GitHub stats](https://github-readme-stats-teal-theta.vercel.app/api?username=RaunakGN2001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div align='center'>
+<a href="https://github.com/RaunakGN2001/github-readme-stats" style='display:inline-block;'>
+ <img src="https://github-readme-stats-teal-theta.vercel.app/api?username=RaunakGN2001&show_icons=true&theme=radical" height='200px' />
+</a>
+
+<a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img src="https://github-readme-stats-teal-theta.vercel.app/api/top-langs/?username=RaunakGN2001&layout=compact&theme=radical" height='200px'/>
+</a>
+ 
+ <div>
+<a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=InteractO&theme=radical" height='155px' align='top'/>
+</a>
+ <a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=Createevity&theme=radical" height='155px' align='top' />
+</a>
+</div>
+ 
+  <div>
+<a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=Illumination-Control-Using-Computer-Vision&theme=radical" height='155px' align='top'/>
+</a>
+ <a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=playing-with-socket&theme=radical" height='155px' align='top' />
+</a>
+</div>
+
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://camo.githubusercontent.com/67a01fa7cf337616274f39c070a11638f2e65720e414ef55b8dd3f9c2a803b2a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526561637426636f6c6f723d323232323232266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642266c6162656c3d) ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=) ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=) ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=) ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
