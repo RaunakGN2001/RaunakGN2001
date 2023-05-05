@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=RaunakGN2001)
 <br>
 <pre>
-<img alt="GIF" align="right" width="540px" src="https://github.com/RaunakGN2001/RaunakGN2001/blob/5539baf30c4a653ab4a3b5573fab982573971125/me-ascii-art.png" />
+<img alt="GIF" align="right" width="540px" src="https://github.com/RaunakGN2001/RaunakGN2001/blob/ae7831d0833a509ef320a5e920ad4f293dceab22/cropped-ascii-art.png" />
  ~> <strong>cat info.txt</strong>
  
-<strong><a href="" >OS</a></strong>: macOS 12.4 21F79 arm64
+<strong><a href="" >OS</a></strong>: macOS 13.3 21F79 arm64
 <strong><a href="" >Uptime</a></strong>: 21 years
 <strong><a href="" >Host</a></strong>: IIEST, Shibpur
 <strong><a href="" >Kernel</a></strong>: Electrical Engineering
