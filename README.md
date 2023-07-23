@@ -49,11 +49,11 @@
 
 <p align='left'>
 <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img src="https://github-readme-stats-teal-theta.vercel.app/api?username=RaunakGN2001&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-stats-exbr4yygf-raunakgn2001.vercel.app/api?username=RaunakGN2001&show_icons=true&theme=radical"/>
 </a>
 
 <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img src="https://github-readme-stats-teal-theta.vercel.app/api/top-langs/?username=RaunakGN2001&layout=compact&theme=radical"/>
+ <img src="https://github-readme-stats-exbr4yygf-raunakgn2001.vercel.app/api/top-langs/?username=RaunakGN2001&layout=compact&theme=radical"/>
 </a>
  </p>
  </details>
@@ -63,16 +63,16 @@
  
  <p align="left">
 <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=InteractO&theme=radical&show_icons=false" />
+ <img width="278" src="https://github-readme-stats-exbr4yygf-raunakgn2001.vercel.app/api/pin/?username=RaunakGN2001&repo=InteractO&theme=radical&show_icons=false" />
 </a>
  <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=Createevity&theme=radical" />
+ <img width="278" src="https://github-readme-stats-exbr4yygf-raunakgn2001.vercel.app/api/pin/?username=RaunakGN2001&repo=Createevity&theme=radical" />
 </a>
  <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=Illumination-Control-Using-Computer-Vision&theme=radical" />
+ <img width="278" src="https://github-readme-stats-exbr4yygf-raunakgn2001.vercel.app/api/pin/?username=RaunakGN2001&repo=Illumination-Control-Using-Computer-Vision&theme=radical" />
 </a>
  <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats-teal-theta.vercel.app/api/pin/?username=RaunakGN2001&repo=playing-with-socket&theme=radical" />
+ <img width="278" src="https://github-readme-stats-exbr4yygf-raunakgn2001.vercel.app/api/pin/?username=RaunakGN2001&repo=playing-with-socket&theme=radical" />
 </a>
 </p>
 </details>
